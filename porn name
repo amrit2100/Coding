@@ -1,0 +1,4 @@
+print("Welcome to the Porn Name Generator.")
+food = input("What's the last thing you ate?\n")
+clothe = input("What color is the dress you are currently wearing?\n")
+print("Your porn name could be " + clothe + " " + food)
