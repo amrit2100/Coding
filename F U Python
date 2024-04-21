@@ -1,0 +1,4 @@
+name = input("Who are you? ")
+
+if name == "Amrit":
+    print("Fuck You!")
