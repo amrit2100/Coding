@@ -1,0 +1,14 @@
+input("Enter your name: ")
+input("Enter your age: ")
+
+height = input("Enter your height (in m): ")
+weight = input("Enter your weight (in kg): ")
+
+
+weight_as_int = int(weight)
+height_as_float = float(height)
+
+bmi = weight_as_int / height_as_float ** 2
+
+bmi_as_int = int(bmi)
+print("Your BMI: ", bmi_as_int)
