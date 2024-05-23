@@ -1,0 +1,5 @@
+username = "nzhao"
+old_username = username
+username = "zhao2"
+print("Previous username:", old_username)
+print("Current username:", username)
